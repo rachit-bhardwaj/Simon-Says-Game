@@ -1,5 +1,7 @@
 # 🎮 Simon Says Game
 
+[![Play Game](https://img.shields.io/badge/Play_Simon_Says_Game-Click_Here-blue?style=for-the-badge&logo=github)](https://rachit-bhardwaj.github.io/Simon-Says-Game/)
+
 ![Status](https://img.shields.io/badge/Status-Mini%20Project-blue)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange)
 ![License](https://img.shields.io/badge/License-Educational-green)
